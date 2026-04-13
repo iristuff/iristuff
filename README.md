@@ -33,7 +33,7 @@
 
 ## 📌 Featured Projects
 - 🍴 **[Fork Yeah](https://github.com/iristuff/forkyeah)** — Gamified cultural cooking app built in React Native + TypeScript with Gemini API & Firebase · *Hack AI 2026, 3rd Place*
-- 🔢 **[Sudoku](https://github.com/iristuff/Text-Based-Sudoku)** — Text-based Sudoku game in Java with a backtracking solver and replay functionality
+- ⏰ **[Patina](https://github.com/msba05/patina)** — Gamified financial literacy game built in React + TypeScript with Gemini AI mentor & Firebase auth — learn money through US history 
 
 ---
 
