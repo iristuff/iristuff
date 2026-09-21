@@ -1,44 +1,50 @@
-# 👋 Hi, I'm Iris Le!
-<samp> 🎓 Computer Science student @ UT Dallas (Expected May 2027) </samp> <br>
-<samp> 💻 Building projects and picking up new technologies along the way </samp> <br>
-<samp> 🏆 Hack AI 2026 — 3rd Place (NRVE Track) </samp>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=400&color=7FB3D5&center=true&vCenter=true&width=700&height=70&lines=hello+world!;i'm+Iris+Le+%F0%9F%8C%9A" alt="hello world! — i'm Iris Le">
+</h1>
 
----
+<p align="center">
+  <img src="https://i.giphy.com/FZiXDhzZJmHzq.gif" width="260" alt="">
+</p>
 
-## 🖥 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  💻 Full-Stack Development &nbsp;•&nbsp; 🎸 Music and Guitar &nbsp;•&nbsp; 🌱 Lifelong Learner
+</p>
 
-## 🌐 Web & Mobile
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <i>B.S. Computer Science @ UT Dallas · Expected May 2027</i>
+</p>
 
-## 🛠 Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![UNIX](https://img.shields.io/badge/UNIX-333333?style=for-the-badge&logo=unix&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+<br>
 
----
+## 🌸 Projects
 
-## 📌 Featured Projects
-- 🍴 **[Fork Yeah](https://github.com/iristuff/forkyeah)** — Gamified cultural cooking app built in React Native + TypeScript with Gemini API & Firebase · *Hack AI 2026, 3rd Place*
-- ⏰ **[Patina](https://github.com/msba05/patina)** — Gamified financial literacy game built in React + TypeScript with Gemini AI mentor & Firebase auth — learn money through US history 
+<p align="center">
+  🍴 <b><a href="https://github.com/iristuff/forkyeah">Fork Yeah</a></b> — gamified cultural cooking app with AI recipe guidance · 🏆 <i>3rd Place, Hack AI 2026</i><br><br>
+  ⏰ <b><a href="https://github.com/msba05/patina">Patina</a></b> — financial literacy game with an AI mentor that teaches money through US history<br><br>
+  🎬 <b><a href="https://github.com/iristuff/PickFlix">PickFlix</a></b> — collaborative movie voting app using weighted ranked-choice voting
+</p>
 
----
+<br>
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iris-nd-le/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iristuff)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irisle5863@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-87CEEB?style=for-the-badge&logo=vercel&logoColor=white)](https://iris-portfolio-two.vercel.app/)
+## 🧁 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,mysql,react,html,css,tailwind,vite&theme=light" width="420" alt="Languages and front end"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,firebase,mongodb,git,github,linux,vscode,idea&theme=light" width="420" alt="Back end and tools">
+</p>
+
+<br>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1200&color=F0A8C8&center=true&vCenter=true&width=700&height=50&lines=let's+connect+%F0%9F%A4%9D" alt="let's connect 🤝">
+</h2>
+
+<p align="center">
+  <a href="mailto:irisle5863@gmail.com"><img src="https://img.shields.io/badge/Email-F5C9DC?style=for-the-badge&logo=gmail&logoColor=8A4A66" alt="Email"></a>
+  <a href="https://linkedin.com/in/iris-nd-le/"><img src="https://img.shields.io/badge/LinkedIn-A9DDF2?style=for-the-badge&logo=linkedin&logoColor=2B5F7A" alt="LinkedIn"></a>
+  <a href="https://iris-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D3CBF0?style=for-the-badge&logo=vercel&logoColor=53437F" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iristuff&label=Profile%20views&color=A9DDF2&style=flat-square" alt="Profile views">
+</p>
