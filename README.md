@@ -44,7 +44,3 @@
   <a href="https://linkedin.com/in/iris-nd-le/"><img src="https://img.shields.io/badge/LinkedIn-A9DDF2?style=for-the-badge&logo=linkedin&logoColor=2B5F7A" alt="LinkedIn"></a>
   <a href="https://iris-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D3CBF0?style=for-the-badge&logo=vercel&logoColor=53437F" alt="Portfolio"></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iristuff&label=Profile%20views&color=A9DDF2&style=flat-square" alt="Profile views">
-</p>
