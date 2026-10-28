@@ -40,7 +40,7 @@
 </h2>
 
 <p align="center">
-  <a href="mailto:irisle5863@gmail.com"><img src="https://img.shields.io/badge/Email-F5C9DC?style=for-the-badge&logo=gmail&logoColor=8A4A66" alt="Email"></a>
-  <a href="https://linkedin.com/in/iris-nd-le/"><img src="https://img.shields.io/badge/LinkedIn-A9DDF2?style=for-the-badge&logo=linkedin&logoColor=2B5F7A" alt="LinkedIn"></a>
-  <a href="https://iris-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D3CBF0?style=for-the-badge&logo=vercel&logoColor=53437F" alt="Portfolio"></a>
+  <a href="mailto:irisle5863@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-E8A9B8?style=for-the-badge&labelColor=E8A9B8" alt="Email"></a>
+  <a href="https://linkedin.com/in/iris-nd-le/"><img src="https://img.shields.io/badge/%E2%98%83%EF%B8%8F_LinkedIn-8FB4E3?style=for-the-badge&labelColor=8FB4E3" alt="LinkedIn"></a>
+  <a href="https://iris-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/%E2%9D%84%EF%B8%8F_Portfolio-5B7DB1?style=for-the-badge&labelColor=5B7DB1&color=5B7DB1" alt="Portfolio"></a>
 </p>
